@@ -6,14 +6,14 @@ Basado en un dataset que contiene mediciones del consumo de energía eléctrica 
 
 Información de atributos:
 
-dt: Fecha en formato dd/mm/aaaa hh:mm:ss
-Global_active_power: potencia activa global promediada por minuto del hogar (en kilovatios)
-Global_reactive_power: potencia reactiva global media por minuto del hogar (en kilovatios)
-voltage: voltaje medio por minuto (en voltios)
-Global_intensity: intensidad de corriente promediada por minutos global del hogar (en amperios)
-Sub_metering_1: submedición de energía nº 1 (en vatios-hora de energía activa). Corresponde a la cocina, que contiene principalmente un lavavajillas, un horno y un microondas (las placas no son eléctricas sino de gas).
-Sub_metering_2: submedición de energía nº 2 (en vatios-hora de energía activa). Corresponde al lavadero, que contiene una lavadora, una secadora, un frigorífico y una luz.
-Sub_metering_3: submedición de energía nº 3 (en vatios-hora de energía activa). Corresponde a un calentador de agua eléctrico y a un aire acondicionado.
+- dt: Fecha en formato dd/mm/aaaa hh:mm:ss
+- Global_active_power: potencia activa global promediada por minuto del hogar (en kilovatios)
+- Global_reactive_power: potencia reactiva global media por minuto del hogar (en kilovatios)
+- voltage: voltaje medio por minuto (en voltios)
+- Global_intensity: intensidad de corriente promediada por minutos global del hogar (en amperios)
+- Sub_metering_1: submedición de energía nº 1 (en vatios-hora de energía activa). Corresponde a la cocina, que contiene principalmente un lavavajillas, un horno y un microondas (las placas no son eléctricas sino de gas).
+- Sub_metering_2: submedición de energía nº 2 (en vatios-hora de energía activa). Corresponde al lavadero, que contiene una lavadora, una secadora, un frigorífico y una luz.
+- Sub_metering_3: submedición de energía nº 3 (en vatios-hora de energía activa). Corresponde a un calentador de agua eléctrico y a un aire acondicionado.
 
 ## Indicaciones
 Completaremos el código solicitado y dispuestos a responder las preguntas asociadas. Recordemos que hay muchas formas de encontrar soluciones entre las muchas funciones disponibles para ello. Elija la mejor disponible.
