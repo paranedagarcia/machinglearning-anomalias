@@ -14,3 +14,10 @@ Global_intensity: intensidad de corriente promediada por minutos global del hoga
 Sub_metering_1: submedición de energía nº 1 (en vatios-hora de energía activa). Corresponde a la cocina, que contiene principalmente un lavavajillas, un horno y un microondas (las placas no son eléctricas sino de gas).
 Sub_metering_2: submedición de energía nº 2 (en vatios-hora de energía activa). Corresponde al lavadero, que contiene una lavadora, una secadora, un frigorífico y una luz.
 Sub_metering_3: submedición de energía nº 3 (en vatios-hora de energía activa). Corresponde a un calentador de agua eléctrico y a un aire acondicionado.
+
+## Indicaciones
+Completaremos el código solicitado y dispuestos a responder las preguntas asociadas. Recordemos que hay muchas formas de encontrar soluciones entre las muchas funciones disponibles para ello. Elija la mejor disponible.
+
+Las librerías mostradas son solo referenciales, somos libres de elegir las que se necesiten.
+
+Recuerde; sin E.D.A. no hay Data Science.
